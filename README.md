@@ -73,22 +73,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richaroy23&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richaroy23" alt="GitHub Streak" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=richaroy23" alt="GitHub Streak" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richaroy23&layout=compact&theme=default" alt="Top Languages"/>
-</p>
-
----
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=richaroy23&theme=onedark&column=4" alt="GitHub Achievements"/>
-  </a>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="GitHub Achievement Badge Example" height="110"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="GitHub Achievement Badge Example" height="110"/>
 </p>
 
 ---
