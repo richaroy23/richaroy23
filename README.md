@@ -79,8 +79,8 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="GitHub Achievement Badge Example" height="110"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="GitHub Achievement Badge Example" height="110"/>
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="GitHub Achievement Badge pair-extraordinaire" height="110"/>
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Achievement Badge - pull-shark" height="110"/>
 </p>
 
 ---
